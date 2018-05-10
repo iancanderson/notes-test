@@ -9,4 +9,4 @@ Gitconfig
 
 
 
-Credentials
+Who needs push refspecs?
